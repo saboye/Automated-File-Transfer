@@ -1,4 +1,3 @@
-# Automated File Transfer
 
 <h1 align="center">Automated File Transfer Using Shell </h1>
 <h1 align="center">Linux and Shell Scripting</h1>
