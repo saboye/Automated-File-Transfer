@@ -37,7 +37,7 @@ Give a ⭐️ if this project helped you!
 
 #### 📝 License
 
-Copyright © 2021 [Saboye](https://github.com/saboye).<br />
+
 This project is [MIT](https://github.com/saboye/Automated-File-Transfer/blob/main/LICENSE) licensed.
 
 ***
