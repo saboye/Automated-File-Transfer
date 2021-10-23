@@ -42,16 +42,16 @@ This project is [MIT](https://github.com/saboye/Automated-File-Transfer/blob/mai
 
 ***
 
-[contributors-shield]: https://img.shields.io/github/contributors/saboye/Web-Scraping-with-Python?style=for-the-badge
-[contributors-url]: https://github.com/saboye/Web-Scraping-with-Python/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/saboye/Web-Scraping-with-Python?style=for-the-badge
-[forks-url]: https://github.com/saboye/Web-Scraping-with-Python/network/members
-[stars-shield]: https://img.shields.io/github/stars/saboye/Web-Scraping-with-Python?style=for-the-badge
-[stars-url]: https://github.com/saboye/Web-Scraping-with-Python/stargazers
-[issues-shield]: https://img.shields.io/github/issues/saboye/Web-Scraping-with-Python?style=for-the-badge
-[issues-url]: https://github.com/saboye/Web-Scraping-with-Python/issues
-[license-shield]: https://img.shields.io/github/license/saboye/Web-Scraping-with-Python?style=for-the-badge
-[license-url]: https://github.com/saboye/Web-Scraping-with-Python/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/saboye/Automated-File-Transfer?style=for-the-badge
+[contributors-url]: https://github.com/saboye/Automated-File-Transfer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/saboye/Automated-File-Transfer?style=for-the-badge
+[forks-url]: https://github.com/saboye/Automated-File-Transfer/network/members
+[stars-shield]: https://img.shields.io/github/stars/saboye/Automated-File-Transfer?style=for-the-badge
+[stars-url]: https://github.com/saboye/Automated-File-Transfer/stargazers
+[issues-shield]: https://img.shields.io/github/issues/saboye/Automated-File-Transfer?style=for-the-badge
+[issues-url]: https://github.com/saboye/Automated-File-Transfer/issues
+[license-shield]: https://img.shields.io/github/license/saboye/Automated-File-Transfer?style=for-the-badge
+[license-url]: https://github.com/saboye/Automated-File-Transfer/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/samuelaboye
 [product-screenshot]: images/screenshot.png  
