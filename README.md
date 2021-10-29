@@ -44,7 +44,7 @@ This project is [MIT](https://github.com/saboye/Automated-File-Transfer/blob/mai
 
 [contributors-shield]: https://img.shields.io/github/contributors/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
 [contributors-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/stars/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
 [forks-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/network/members
 [stars-shield]: https://img.shields.io/github/stars/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
 [stars-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/stargazers
