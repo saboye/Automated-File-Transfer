@@ -54,5 +54,5 @@ This project is [MIT](https://github.com/saboye/Automated-File-Transfer/blob/mai
 [license-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/samuelaboye
-[product-screenshot]: images/screenshot.png  
+
 
