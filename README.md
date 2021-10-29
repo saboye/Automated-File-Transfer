@@ -42,16 +42,16 @@ This project is [MIT](https://github.com/saboye/Automated-File-Transfer/blob/mai
 
 ***
 
-[contributors-shield]: https://img.shields.io/github/contributors/saboye/Automated-File-Transfer?style=for-the-badge
-[contributors-url]: https://github.com/saboye/Automated-File-Transfer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/saboye/Automated-File-Transfer?style=for-the-badge
-[forks-url]: https://github.com/saboye/Automated-File-Transfer/network/members
-[stars-shield]: https://img.shields.io/github/stars/saboye/Automated-File-Transfer?style=for-the-badge
-[stars-url]: https://github.com/saboye/Automated-File-Transfer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/saboye/Automated-File-Transfer?style=for-the-badge
-[issues-url]: https://github.com/saboye/Automated-File-Transfer/issues
-[license-shield]: https://img.shields.io/github/license/saboye/Automated-File-Transfer?style=for-the-badge
-[license-url]: https://github.com/saboye/Automated-File-Transfer/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
+[contributors-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
+[forks-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/network/members
+[stars-shield]: https://img.shields.io/github/stars/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
+[stars-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/stargazers
+[issues-shield]: https://img.shields.io/github/issues/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
+[issues-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/issues
+[license-shield]: https://img.shields.io/github/license/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
+[license-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/samuelaboye
 [product-screenshot]: images/screenshot.png  
