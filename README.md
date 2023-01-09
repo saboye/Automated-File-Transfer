@@ -6,6 +6,7 @@
 ![GitHub](https://img.shields.io/github/license/saboye/Automated-File-Transfer-with-Bash?label=license&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge)
 
+
 ## Automated File Transfer
 This script automates the process of transferring files from a source directory to a destination directory. It can be run on a schedule or ad hoc, and sends notifications via SMS and email in the event of a failure or success.
 
