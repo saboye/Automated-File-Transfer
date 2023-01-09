@@ -1,23 +1,79 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<h1 align="center">Automated File Transfer Using Shell </h1>
-<h1 align="center">Linux and Shell Scripting</h1>
+### <h1 align="center" style="color:blue;" id="heading">Automated File Transfer with Bash</h1>
 
-#### Install
+![GitHub contributors](https://img.shields.io/github/contributors/saboye/Automated-File-Transfer-with-Bash?color=blue&logo=github&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/saboye/Automated-File-Transfer-with-Bash?logo=github&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/saboye/Automated-File-Transfer-with-Bash?label=license&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge)
+
+## Automated File Transfer
+This script automates the process of transferring files from a source directory to a destination directory. It can be run on a schedule or ad hoc, and sends notifications via SMS and email in the event of a failure or success.
+
+## Prerequisites
+- AWS CLI
+- aws command should be added to PATH, run aws --version to check if installed
+- An AWS account with the Simple Notification Service (SNS) and Simple Email Service (SES) services set up
+- A phone number and email address to send the notifications to
+
+#### Usage
+1. Clone the repository:
 
 ```sh
 git clone git@github.com:saboye/Automated-File-Transfer.git
-```
-#### To run
-```sh
-Change the directory where the script has loaded. 
-./Scrip.sh 
+
+
 ```
 
+2. Navigate to the cloned directory:
+```sh
+cd Automated-File-Transfer
+
+```
+
+3. Set the phone number and email address to send the notifications to in the PHONE_NUMBER and EMAIL_ADDRESS variables at the top of the script.
+
+4. Set the paths for the source and destination directories in the source_dir and destination_dir variables.
+
+5. Set the path for the log file in the log_file variable.
+
+6. Run the script:
+
+```sh
+./transfer.sh
+
+```
+You can also pass a date parameter to the script to transfer a file for a specific date, in the format YYYY-MM-DD:
+
+```sh
+./transfer.sh 2022-01-01
+
+```
+
+## Scheduling
+To run the script on a schedule, you can use a tool like cron on Linux. Edit the crontab file by running the following command:
+
+```sh
+crontab -e
+```
+
+Add a line to the file to run the script at the desired frequency. For example, to run the script every day at 8 AM, add the following line:
+
+```sh
+0 8 * * * /path/to/transfer.sh
+```
+
+Save and exit the file. The script will now be run automatically at the specified frequency.
+
+Logging
+The script logs events to a log file specified in the log_file variable. The log file contains timestamped messages for each run of the script, including success and failure messages and any notifications that were sent.
+
+
+Troubleshooting
+- Make sure that the aws command is in your PATH
+- Check the AWS account's permissions to ensure that the necessary services (SNS and SES) are enabled
+- Check the phone number and email address to make sure they are correct and properly formatted
+- Check the paths for the source, destination, and log files to ensure they are correct and the directories exist
+- Check the log file for any error messages that may help identify the issue
 
 #### Author
 
@@ -42,17 +98,5 @@ This project is [MIT](https://github.com/saboye/Automated-File-Transfer/blob/mai
 
 ***
 
-[contributors-shield]: https://img.shields.io/github/contributors/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
-[contributors-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/graphs/contributors
-[forks-shield]: https://img.shields.io/github/stars/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
-[forks-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/network/members
-[stars-shield]: https://img.shields.io/github/stars/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
-[stars-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/stargazers
-[issues-shield]: https://img.shields.io/github/issues/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
-[issues-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/issues
-[license-shield]: https://img.shields.io/github/license/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge
-[license-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/samuelaboye
 
 
