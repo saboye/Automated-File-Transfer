@@ -1,1 +1,1 @@
-01      12      *       *       *       /Users/samuel/Desktop/antwak/Script.sh
+0 0 * * * /path/to/script/transfer.sh
