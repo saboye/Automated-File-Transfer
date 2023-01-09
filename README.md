@@ -4,7 +4,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/saboye/Automated-File-Transfer-with-Bash?color=blue&logo=github&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/saboye/Automated-File-Transfer-with-Bash?logo=github&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/saboye/Automated-File-Transfer-with-Bash?label=license&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/saboye/QA-TODO-APP?label=license&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/saboye/Automated-File-Transfer-with-Bash?style=for-the-badge)
 
