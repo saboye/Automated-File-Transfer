@@ -9,7 +9,7 @@
 
 
 ## Automated File Transfer
-This script automates the process of transferring files from a source directory to a destination directory. It can be run on a schedule or ad hoc, and sends notifications via SMS and email in the event of a failure or success.
+This project automates the process of transferring files from a source directory to a destination directory. It can be run on a schedule or ad hoc, and sends notifications via SMS and email in the event of a failure or success.he project specifications can be found [Here](https://github.com/saboye/Automated-File-Transfer-with-Bash/blob/main/Linux%20and%20Shell%20Scripting.pdf).
 
 ## Prerequisites
 - AWS CLI
